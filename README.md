@@ -336,12 +336,6 @@ bash
 uvicorn serve:app --host 127.0.0.1 --port 8000
 
 
-The backend will be available at:
-
-text
-http://127.0.0.1:8000
-
-
 API documentation, when enabled:
 
 text
@@ -378,10 +372,8 @@ bash
 npm run dev
 
 
-Open the local development URL shown in the terminal, commonly:
-
-text
-http://localhost:5173
+Open the local development URL shown in the terminal, 
+https://trustlensai-beta.vercel.app/
 
 
 ---
